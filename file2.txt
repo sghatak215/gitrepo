@@ -3,3 +3,5 @@ Sweden
 Germany
 Romania
 Austria
+Australia
+Japan
