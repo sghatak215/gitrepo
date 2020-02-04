@@ -1,0 +1,4 @@
+Installation Instruction for the SDE Oracle Enterprise Capture
+=============================================================
+
+The msi file should get installed on the clients with Admin priveleges. 
